@@ -51,11 +51,6 @@ Tujuan utama pemain adalah mengalahkan naga yang menghalangi orang-orang keluar 
 
 ---
 
-## 📸 Screenshot
-*(Tambahkan screenshot hasil game di sini, misalnya town square atau pertarungan monster)*
-
----
-
 ## 📖 Catatan
 Project ini adalah latihan dari **freeCodeCamp JavaScript Course**.  
 Kamu bisa mengembangkannya lebih lanjut, misalnya:
