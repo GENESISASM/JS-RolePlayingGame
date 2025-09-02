@@ -34,11 +34,11 @@ Tujuan utama pemain adalah mengalahkan naga yang menghalangi orang-orang keluar 
 ## 🚀 Cara Menjalankan
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/dragon-repeller.git
+   git clone https://github.com/GENESISASM/JS-RolePlayingGame.git
    ```
 2. Masuk ke folder project:
    ```bash
-   cd dragon-repeller
+   cd JS-RolePlayingGame
    ```
 3. Buka `index.html` di browser favorit kamu.
 
