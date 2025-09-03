@@ -59,4 +59,5 @@ Kamu bisa mengembangkannya lebih lanjut, misalnya:
 - Efek suara & animasi 🔊 
 
 ---
+👨‍💻 Dibuat dengan ❤️ oleh [Arif](hhttps://github.com/GENESISASM).
 ✨ Selamat bermain & selamat belajar JavaScript!
